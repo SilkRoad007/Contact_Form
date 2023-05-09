@@ -15,7 +15,7 @@ section {
 
 h1 {
   color: #A5B4FC;
-  font-size: 3em;
+  font-size: 40px;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -54,7 +54,7 @@ a:hover {
 @media screen and (max-width: 996px) {
 
  h1 {
-  font-size: 2em;
+  font-size: 25px;
  }
 section {
   padding: 20px 50px;
